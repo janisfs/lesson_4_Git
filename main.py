@@ -8,4 +8,5 @@ elif a < b:
 else:
     print("а равно b")
 
+print("это нам не нужно")
 
