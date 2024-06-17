@@ -7,7 +7,6 @@ for i in range(8):
     
 a, b = 9, 8
 
-
 # if a > b:
    # print("а больше чем б")
 # elif a < b:
@@ -18,3 +17,6 @@ a, b = 9, 8
 # print("это нам не нужно")
 
 print("Я конфликтую")
+
+# lesson 4.1
+a = 5
